@@ -5,7 +5,7 @@
 [![Mail Badge](https://img.shields.io/badge/-g4ngst4r@tutamail.com-8B89CC?style=for-the-badge&logo=protonmail&logo=Gmail&logoColor=white&link=mailto:g4ngst4r@tutamail.com)](mailto:g4ngst4r@tutamail.com)
 
 <p align="center">
-  <img width="330" height="440" src="https://spotify-github-profile.kittinanx.com/api/view?uid=gofjwkzopum8cxnmjxxmn3jl8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+  <img width="280" height="90" src="https://spotify-github-profile.kittinanx.com/api/view?uid=gofjwkzopum8cxnmjxxmn3jl8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
 </p>
 
 <p align="center">
