@@ -1,4 +1,4 @@
-<h2 align="left"> Hey there 👋, I'm Ojaswi Kumar Mishra <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFjNmxqY2JyNG15ZDg4eGtkbzQ3aGt6bWJmMnd0N242cnRrZGI1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E9CM8iq7LqwS3bR3sB/giphy.webp" width="50"></h2>
+<h2 align="left"> 我么 / about me？Hey! I'm Ojaswi Kumar Mishra <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFjNmxqY2JyNG15ZDg4eGtkbzQ3aGt6bWJmMnd0N242cnRrZGI1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E9CM8iq7LqwS3bR3sB/giphy.webp" width="50"></h2>
 
 > ***"Bad things happen to the people you love, and you find yourself praying up to the heaven above." ~ J. Cole, She knows***
 
@@ -25,7 +25,7 @@
 -  Certifications: CRTO (in progress)
 -  Blog : [http://g4ngst4r.substack.com](http://g4ngst4r.substack.com) | [http://g4ngst4r.com](http://g4ngst4r.com)
 
-## 我在哪？/my 
+## 我在哪？/my team
 - [The FLARE-On Challenge](https://flare-on.com/): The Flare-On Challenge is the FLARE team's annual Capture-the-Flag (CTF) contest. It is a single-player series of Reverse Engineering puzzles that runs for 6 weeks every fall。
  
 - [CTFTime](https://ctftime.org/team/xxxxx)：一 Capture the Flag (CTF) is a special kind of information security competitions. There are three common types of CTFs: Jeopardy, Attack-Defence and mixed。
