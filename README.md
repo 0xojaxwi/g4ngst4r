@@ -1,4 +1,4 @@
-<h2 align="left"> 我么 / about me？Hey! I'm Ojaswi Kumar Mishra <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFjNmxqY2JyNG15ZDg4eGtkbzQ3aGt6bWJmMnd0N242cnRrZGI1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E9CM8iq7LqwS3bR3sB/giphy.webp" width="50"></h2>
+<h2 align="left"> 我么 / About Me？Hey! I'm Ojaswi Kumar Mishra <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFjNmxqY2JyNG15ZDg4eGtkbzQ3aGt6bWJmMnd0N242cnRrZGI1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E9CM8iq7LqwS3bR3sB/giphy.webp" width="50"></h2>
 
 > ***"Bad things happen to the people you love, and you find yourself praying up to the heaven above." ~ J. Cole, She knows***
 
